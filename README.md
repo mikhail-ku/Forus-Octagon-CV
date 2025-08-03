@@ -6,5 +6,5 @@
 This repository contains my solutions for the "Computer Vision" competencies and the "Recognize the scheme from the picture" project on the [Octagon](https://octagon-students.ru/about) educational platform developed by [Forus](https://hr.forus.ru/about). 
 
 ## License
-- **Code**: [MIT License](LICENSE)
+- **My code**: [MIT License](LICENSE)
 - **Third-party resources**: [models_licenses.md](models_licenses.md)
